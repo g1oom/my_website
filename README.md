@@ -1,4 +1,6 @@
-My very first personal website!
+# My Website
+
+My very first personal [website](https://g1oom.github.io/my_website/)!
 
 Built with HTML, CSS, and some vanilla JavaScript.
 
